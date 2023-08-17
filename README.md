@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hello%2C%20World!%22);sdcxzx-tester同学祝您今天愉快!&center=true&size=20"> </a> </h1>
+<h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)!&center=true&size=20"> </a> </h1>
 <!--
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
