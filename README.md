@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hello%2C%20World!%22);sdcxzx-tester同学祝您今天愉快!&center=true&size=20"> </a> </h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdcxzx-tester&show_icons=true&theme=tokyonight)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdcxzx-tester)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcxzx-tester&layout=compact)](https://github.com/sdcxzx-tester/sdcxzx-tester)
