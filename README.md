@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 <h1 align="center">  <img src="https://readme-typing-svg.herokuapp.com/?lines=fmt.Println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)!&center=true&size=20"> </a> </h1>
 <!--
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-Yaml-informational?style=flat&logo=yaml&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3776AB)
@@ -30,6 +31,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdcxzx-tester&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcxzx-tester&layout=compact)](https://github.com/sdcxzx-tester/sdcxzx-tester)
+
 
 
 <!--
@@ -46,5 +48,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sdcxzx-tester&theme=github)](https://github.com/sdcxzx-tester/sdcxzx-tester)
-
+-->
