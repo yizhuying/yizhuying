@@ -24,7 +24,7 @@
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3776AB)
 
-
+[![My Skills](https://skillicons.dev/icons?i=bash,git,gitlab,github,jenkins,linux,markdown,python,golang,redis,vscode,mysql,postgresql,qa)](https://skillicons.dev)
 
 
 
