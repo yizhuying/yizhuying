@@ -28,14 +28,14 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdcxzx-tester&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroBugHero&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcxzx-tester&layout=compact)](https://github.com/sdcxzx-tester/sdcxzx-tester)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroBugHero&layout=compact)](https://github.com/ZeroBugHero/ZeroBugHero)
 
 
 
 <!--
-**sdcxzx-tester/sdcxzx-tester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZeroBugHero/ZeroBugHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sdcxzx-tester&theme=github)](https://github.com/sdcxzx-tester/sdcxzx-tester)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeroBugHero&theme=github)](https://github.com/ZeroBugHero/ZeroBugHero)
 -->
