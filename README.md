@@ -28,14 +28,14 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shouzhongjun&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yizhuying&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouzhongjun&layout=compact)](https://github.com/shouzhongjun/shouzhongjun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhuying&layout=compact)](https://github.com/yizhuying/yizhuying)
 
 
 
 <!--
-**shouzhongjun/shouzhongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yizhuying/yizhuying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shouzhongjun&theme=github)](https://github.com/shouzhongjun/shouzhongjun)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yizhuying&theme=github)](https://github.com/yizhuying/yizhuying)
 -->
